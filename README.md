@@ -2,10 +2,10 @@
 
 How to run:
 
-STEP 1: 
-STEP 2:
-STEP 3:
-
+STEP 1: Download (Slither-Classic) folder
+STEP 2: Extract it and double click (Slither-Classic) folder 
+STEP 3: Open (index.html) file in google chrome
+STEP 4: Continue reading down this page
 
 Slither-Classic Controls: 
 
