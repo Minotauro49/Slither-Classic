@@ -12,6 +12,6 @@ STEP 4: Continue reading down this page
 
 Slither-Classic Controls: 
 ---------------------------------------------------------------------------------------
-[W A S D] OR [LEFT, UP, RIGH, DOWN] Arrows to move 
+[W A S D] OR [LEFT, UP, RIGHT, DOWN] Arrows to move 
 
 [SPACE BAR] to speed up
